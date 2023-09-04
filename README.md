@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/WZ57.gif)
+![MasterHead](https://i.gifer.com/WZ57.gif) 
 
 <h1 align="center">Hi 👋, I'm Advitiya !</h1>
 <h3 align="center">A passionate AI/ML engineer from India !</h3>
