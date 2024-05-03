@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **News Generation**
 
-- 👯 I’m looking to collaborate on **Natural Language Processing Projects !**
+- 👯 I’m looking to collaborate on **AI related Projects !**
 
 - 👨‍💻 All of my projects are available at [advitiyabharti003@gmail.com](advitiyabharti003@gmail.com)
 
